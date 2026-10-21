@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toddrosenthal7-glitch.github.io/verinuevo/sitemap.xml
